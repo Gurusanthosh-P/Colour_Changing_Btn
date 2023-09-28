@@ -1,0 +1,21 @@
+#container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#center{
+    text-align: center;
+}
+
+#btn{
+    border: 1px solid black;
+    background-color: rgb(19, 31, 30);
+    color: white;
+    border-radius: 15px;
+    font-size: 20px;
+    letter-spacing: 5px;
+    cursor: pointer;
+    padding: 10px 30px;
+}
